@@ -190,4 +190,5 @@ fi
 if [ $use = 0 ]
 then
 clear
+fi
 exit
